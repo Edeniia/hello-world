@@ -1,4 +1,5 @@
-# hello-world
-My first repository
+Hello World!
 
-This is just a try-out exercise, nothing particularly intersting for anyone but me.
+Zhenya here. I am a Biophysics PhD Student with background in Molecular Biology. Currently working on applying new technique, called thermophoresis, to biological problems. Taking part in the Data Scientist Tool Box on Coursera, and that is how I found my way onto this website. 
+
+Stay put.
